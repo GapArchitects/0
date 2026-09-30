@@ -1,3 +1,5 @@
+daily checklist
+
 - [ ] book
 - [ ] open
 - [ ] fine
@@ -10,6 +12,9 @@
 - [ ] trim
 - [ ] post
 - [ ] note
+- [ ] tidy
+- [ ] neat
+- [ ] data
 
 
       
