@@ -10,7 +10,6 @@ daily checklist
 - [ ] line
 - [ ] glue
 - [ ] trim
-- [ ] post
 - [ ] note
 - [ ] tidy
 - [ ] neat
