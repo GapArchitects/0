@@ -15,6 +15,7 @@ daily checklist
 - [ ] tidy
 - [ ] neat
 - [ ] data
+- [ ] math
 
 
       
